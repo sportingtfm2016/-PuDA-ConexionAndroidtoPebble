@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\criii\\Desktop\\Android Studio\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\criii\\Desktop\\Android Studio\\android\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\criii\\Desktop\\Android Studio\\android\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\criii\\Desktop\\Android Studio\\android\\build\\intermediates\\exploded-aar\\com.getpebble\\pebblekit\\3.0.0\\res\\layout\\main.xml"
+    }
+]

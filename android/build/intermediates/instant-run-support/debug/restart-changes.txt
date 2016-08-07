@@ -1,0 +1,1 @@
+CHANGED,C:\Users\criii\Desktop\Android Studio\android\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\getpebble\pebblekitexample\MainActivity$2.class
